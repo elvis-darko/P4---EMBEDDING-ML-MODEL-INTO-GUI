@@ -49,3 +49,4 @@ Use these recommended steps to set up your local machine for this project:
 
 
 ## EVALUATION
+The Gradio and Streamlit Apps should be able to do accurate predictions.
